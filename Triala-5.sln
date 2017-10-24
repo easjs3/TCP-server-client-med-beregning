@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triala-5", "Triala-5\Triala-5.csproj", "{91C23D3B-E152-4F2D-A386-4E30DBE267F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A3920CFB-A78A-4F80-AF6C-D4870AAC3855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C23D3B-E152-4F2D-A386-4E30DBE267F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C23D3B-E152-4F2D-A386-4E30DBE267F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C23D3B-E152-4F2D-A386-4E30DBE267F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C23D3B-E152-4F2D-A386-4E30DBE267F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3920CFB-A78A-4F80-AF6C-D4870AAC3855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3920CFB-A78A-4F80-AF6C-D4870AAC3855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3920CFB-A78A-4F80-AF6C-D4870AAC3855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3920CFB-A78A-4F80-AF6C-D4870AAC3855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7B6358A-D2E8-44D3-83BB-22B0CDD66F1A}
+	EndGlobalSection
+EndGlobal
